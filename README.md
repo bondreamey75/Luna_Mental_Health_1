@@ -1,8 +1,8 @@
-# Aura - Mental Wellness Application
+# Luna - Mental Wellness Application
 
 ## Overview
 
-Aura is a comprehensive mental wellness and emotional support web application built with modern technologies. The application provides users with tools for emotional tracking, daily check-ins, journaling, and data insights to support their mental health journey.
+Luna is a comprehensive mental wellness and emotional support web application built with modern technologies. The application provides users with tools for emotional tracking, daily check-ins, journaling, and data insights to support their mental health journey.
 
 ## Project Structure
 
